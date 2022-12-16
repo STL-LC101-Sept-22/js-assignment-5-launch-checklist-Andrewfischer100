@@ -87,6 +87,7 @@ async function myFetch() {
                 return response.json();
             }
         });
+        
 
     return planetsReturned;
 }
